@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "table of Сubes/1.0.0": {
+        "runtime": {
+          "table of Сubes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "table of Сubes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\Makee\Desktop\study\Introduction to programming languages 3\task19\obj\Debug\net6.0\task19.csproj.AssemblyReference.cache
+C:\Users\Makee\Desktop\study\Introduction to programming languages 3\task19\obj\Debug\net6.0\task19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Makee\Desktop\study\Introduction to programming languages 3\task19\obj\Debug\net6.0\task19.AssemblyInfoInputs.cache
+C:\Users\Makee\Desktop\study\Introduction to programming languages 3\task19\obj\Debug\net6.0\task19.AssemblyInfo.cs
+C:\Users\Makee\Desktop\study\Introduction to programming languages 3\task19\obj\Debug\net6.0\task19.csproj.CoreCompileInputs.cache
+C:\Users\Makee\Desktop\study\Introduction to programming languages 3\task19\bin\Debug\net6.0\task19.exe
+C:\Users\Makee\Desktop\study\Introduction to programming languages 3\task19\bin\Debug\net6.0\task19.deps.json
+C:\Users\Makee\Desktop\study\Introduction to programming languages 3\task19\bin\Debug\net6.0\task19.runtimeconfig.json
+C:\Users\Makee\Desktop\study\Introduction to programming languages 3\task19\bin\Debug\net6.0\task19.dll
+C:\Users\Makee\Desktop\study\Introduction to programming languages 3\task19\bin\Debug\net6.0\task19.pdb
+C:\Users\Makee\Desktop\study\Introduction to programming languages 3\task19\obj\Debug\net6.0\task19.dll
+C:\Users\Makee\Desktop\study\Introduction to programming languages 3\task19\obj\Debug\net6.0\refint\task19.dll
+C:\Users\Makee\Desktop\study\Introduction to programming languages 3\task19\obj\Debug\net6.0\task19.pdb
+C:\Users\Makee\Desktop\study\Introduction to programming languages 3\task19\obj\Debug\net6.0\task19.genruntimeconfig.cache
+C:\Users\Makee\Desktop\study\Introduction to programming languages 3\task19\obj\Debug\net6.0\ref\task19.dll

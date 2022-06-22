@@ -1,0 +1,15 @@
+C:\Users\Makee\Desktop\study\Introduction to programming languages 3\table of Сubes\bin\Debug\net6.0\table of Сubes.exe
+C:\Users\Makee\Desktop\study\Introduction to programming languages 3\table of Сubes\bin\Debug\net6.0\table of Сubes.deps.json
+C:\Users\Makee\Desktop\study\Introduction to programming languages 3\table of Сubes\bin\Debug\net6.0\table of Сubes.runtimeconfig.json
+C:\Users\Makee\Desktop\study\Introduction to programming languages 3\table of Сubes\bin\Debug\net6.0\table of Сubes.dll
+C:\Users\Makee\Desktop\study\Introduction to programming languages 3\table of Сubes\bin\Debug\net6.0\table of Сubes.pdb
+C:\Users\Makee\Desktop\study\Introduction to programming languages 3\table of Сubes\obj\Debug\net6.0\table of Сubes.csproj.AssemblyReference.cache
+C:\Users\Makee\Desktop\study\Introduction to programming languages 3\table of Сubes\obj\Debug\net6.0\table of Сubes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Makee\Desktop\study\Introduction to programming languages 3\table of Сubes\obj\Debug\net6.0\table of Сubes.AssemblyInfoInputs.cache
+C:\Users\Makee\Desktop\study\Introduction to programming languages 3\table of Сubes\obj\Debug\net6.0\table of Сubes.AssemblyInfo.cs
+C:\Users\Makee\Desktop\study\Introduction to programming languages 3\table of Сubes\obj\Debug\net6.0\table of Сubes.csproj.CoreCompileInputs.cache
+C:\Users\Makee\Desktop\study\Introduction to programming languages 3\table of Сubes\obj\Debug\net6.0\table of Сubes.dll
+C:\Users\Makee\Desktop\study\Introduction to programming languages 3\table of Сubes\obj\Debug\net6.0\refint\table of Сubes.dll
+C:\Users\Makee\Desktop\study\Introduction to programming languages 3\table of Сubes\obj\Debug\net6.0\table of Сubes.pdb
+C:\Users\Makee\Desktop\study\Introduction to programming languages 3\table of Сubes\obj\Debug\net6.0\table of Сubes.genruntimeconfig.cache
+C:\Users\Makee\Desktop\study\Introduction to programming languages 3\table of Сubes\obj\Debug\net6.0\ref\table of Сubes.dll
